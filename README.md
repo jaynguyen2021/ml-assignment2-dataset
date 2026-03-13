@@ -38,7 +38,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 1. Install the required libraries.
 
 2. Run the Python script:
-python neural_network_assignment2.py
+ML_Assignment_2_NeuralNetwork_Iris.ipynb
 
 
 The dataset will be loaded directly from the online URL, so no local dataset file is required.
